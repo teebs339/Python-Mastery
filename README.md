@@ -23,9 +23,9 @@ At the time of writing this, I have 2+ years of experience working as an automat
    * Maybe try plotting using some other library
 
 4) ML Chapter 1: Maths
-   * Statistics & Probability from here: https://www.khanacademy.org/math/statistics -probability
-   * Linear Algebra from here: https://www.khanacademy.org/math/linear -algebra
-   * Calculus/derivatives from here: https://www.khanacademy.org/math/differential -calculus
+   * Statistics & Probability from here: https://www.khanacademy.org/math/statistics-probability
+   * Linear Algebra from here: https://www.khanacademy.org/math/linear-algebra
+   * Calculus/derivatives from here: https://www.khanacademy.org/math/differential-calculus
    * P.S. I'm not gonna nerd on these because i have already studied these in my degree before but if you're new to it, learning these might be helpful.
 
 5) ML Chapter 2: Concepts
