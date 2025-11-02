@@ -11,6 +11,7 @@ At the time of writing this, I have 2+ years of experience working as an automat
    * Basic python scripting practices including Lists, Dictionaries, Looping, etc
    * Functions and classes
    * Starting to code in Jupyter Notebook environment
+   * I'm learning python from Programming with Mosh python course
 
 2) Pandas
    * Basic data analysis using Pandas
